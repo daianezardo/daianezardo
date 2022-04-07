@@ -3,7 +3,7 @@
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estudando React.js
 - 😄 Pronouns: ela / dela
-- 
+
 <div align="center">
   <a href="https://github.com/daianezardo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daianezardo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
