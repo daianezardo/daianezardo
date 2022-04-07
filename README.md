@@ -3,8 +3,6 @@
 - 🌱 Estudando React.js
 - 😄 Pronouns: ela / dela
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=daianezardo.daianezardo)
-
 <div align="center">
   <a href="https://github.com/daianezardo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daianezardo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -26,5 +24,8 @@
   <a href="https://www.instagram.com/daianezardo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:daianezardo@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/daiane-zardo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  
+  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=daianezardo.daianezardo)
 
 </div>
