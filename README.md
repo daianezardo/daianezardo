@@ -3,7 +3,7 @@
 - 🌱 Estudando React.js
 - 😄 Pronouns: ela / dela
 
-<div>
+<div align="center">
   <a href="https://github.com/daianezardo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daianezardo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daianezardo&layout=compact&langs_count=7&theme=dark"/>
