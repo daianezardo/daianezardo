@@ -1,6 +1,5 @@
-### Olá, eu sou a Daiane Zardo, desenvolvedora Front-end! 👋✨
+### Olá, eu sou a Daiane Zardo! 👋✨
 
-- 🌱 Estudando React.js
 - 😄 Pronouns: ela / dela
 
 <div align="center">
