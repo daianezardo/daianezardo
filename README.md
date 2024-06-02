@@ -1,4 +1,4 @@
-### Olá, eu sou a Daiane Zardo, Software Quality Engineer! 👋✨
+### Hello, I'm Daiane Zardo, Software Quality Engineer! 👋✨
 
 - 😄 Pronouns: ela / dela
 
